@@ -182,7 +182,7 @@ header .flex-j-alingn .logos-flex button img{
 main{
     height: 100%;
     margin: 65px 0px 0px 300px;
-    background-color: yellow;
+    background-color: transparent;
 }
 main .descripition{
     background-color: transparent;
@@ -227,7 +227,7 @@ main .descripition .bad-god p{
 main .descripition .profile-direction{
     display: flex;
     margin-top: 40px; 
-    background-color: aquamarine;
+    background-color: transparent;
     height: 100%;
     width: 900px;
     
